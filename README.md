@@ -12,63 +12,63 @@ This repository contains simple and beginner-friendly implementations of essenti
 ### 1. Singly Linked List
 Basic node-based linear structure where each node points to the next.
 
-➡️ [Code Link](./SinglyLinkedList.py)
+➡️ [Code Link](./linkedList.py)
 
 ---
 
 ### 2. Stack (LIFO)
 Follows Last In First Out. Implemented using list or class.
 
-➡️ [Code Link](./Stack.py)
+➡️ [Code Link](./stack.py)
 
 ---
 
 ### 3. Queue (FIFO)
 Follows First In First Out. Implemented using list or class.
 
-➡️ [Code Link](./Queue.py)
+➡️ [Code Link](./queue.py)
 
 ---
 
 ### 4. Doubly Linked List
 Each node links both forward and backward (next and prev).
 
-➡️ [Code Link](./DoublyLinkedList.py)
+➡️ [Code Link](./doublyLinkedList.py)
 
 ---
 
 ### 5. Circular Linked List
 The last node connects back to the first, forming a loop.
 
-➡️ [Code Link](./CircularLinkedList.py)
+➡️ [Code Link](./circularLinkedList.py)
 
 ---
 
 ### 6. Hash Table
 Implements key-value storage using a simple hashing technique and collision handling via chaining.
 
-➡️ [Code Link](./HashTable.py)
+➡️ [Code Link](./hashTable.py)
 
 ---
 
 ### 7. Binary Tree
 Hierarchical structure with each node having at most 2 children.
 
-➡️ [Code Link](./BinaryTree.py)
+➡️ [Code Link](./binaryTree.py)
 
 ---
 
 ### 8. Binary Search Tree (BST)
 Binary tree with left < root < right. Allows fast search, insert, delete.
 
-➡️ [Code Link](./BinarySearchTree.py)
+➡️ [Code Link](./binarySearchTree.py)
 
 ---
 
 ### 9. Heap (Min-Heap)
 Binary tree where parent nodes are smaller than their children. Efficient for priority queues.
 
-➡️ [Code Link](./MinHeap.py)
+➡️ [Code Link](./heap(Min-Heap.py))
 
 ---
 
