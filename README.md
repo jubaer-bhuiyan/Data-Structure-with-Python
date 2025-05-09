@@ -1,64 +1,105 @@
+# 🧠 Data Structures with Python
 
-# Data Structures with Python
-
-This repository contains beginner-friendly implementations of fundamental data structures using Python.
-Each data structure includes simple code and real-life examples to help understand the core concepts.
-
----
-
-## ✅ Implemented Data Structures
-
-| Data Structure | Description | File |
-|----------------|-------------|------|
-| Stack          | LIFO structure (like undo in an editor) | `stack.py` |
-| Queue          | FIFO structure (like people in a line)  | `queue.py` |
-| Linked List    | Chain of nodes with dynamic memory       | `linked_list.py` |
+This repository contains simple and beginner-friendly implementations of essential data structures using Python. Each data structure is implemented with:
+- Clear explanation 📝
+- Simple code examples 💻
+- Practical usage 💡
 
 ---
 
-## 🧪 How to Run
+## 📁 Completed Data Structures
+
+### 1. Singly Linked List
+Basic node-based linear structure where each node points to the next.
+
+➡️ [Code Link](./SinglyLinkedList.py)
+
+---
+
+### 2. Stack (LIFO)
+Follows Last In First Out. Implemented using list or class.
+
+➡️ [Code Link](./Stack.py)
+
+---
+
+### 3. Queue (FIFO)
+Follows First In First Out. Implemented using list or class.
+
+➡️ [Code Link](./Queue.py)
+
+---
+
+### 4. Doubly Linked List
+Each node links both forward and backward (next and prev).
+
+➡️ [Code Link](./DoublyLinkedList.py)
+
+---
+
+### 5. Circular Linked List
+The last node connects back to the first, forming a loop.
+
+➡️ [Code Link](./CircularLinkedList.py)
+
+---
+
+### 6. Hash Table
+Implements key-value storage using a simple hashing technique and collision handling via chaining.
+
+➡️ [Code Link](./HashTable.py)
+
+---
+
+### 7. Binary Tree
+Hierarchical structure with each node having at most 2 children.
+
+➡️ [Code Link](./BinaryTree.py)
+
+---
+
+### 8. Binary Search Tree (BST)
+Binary tree with left < root < right. Allows fast search, insert, delete.
+
+➡️ [Code Link](./BinarySearchTree.py)
+
+---
+
+### 9. Heap (Min-Heap)
+Binary tree where parent nodes are smaller than their children. Efficient for priority queues.
+
+➡️ [Code Link](./MinHeap.py)
+
+---
+
+## 🚀 How to Run
 
 ```bash
-python stack.py
-python queue.py
-python linked_list.py
+python <filename>.py
 ```
 
-Make sure you have Python 3 installed.
+Example:
 
----
-
-## 📚 Examples
-
-### Stack
-```python
-stack = ['apple', 'banana']
-stack.pop() ➜ 'banana'
-```
-
-### Queue
-```python
-queue = ['apple', 'banana']
-queue.pop(0) ➜ 'apple'
-```
-
-### Linked List
-```
-apple -> banana -> cherry -> None
+```bash
+python BinarySearchTree.py
 ```
 
 ---
 
-## 🚀 Coming Next
-- [ ] Doubly Linked List
-- [ ] Circular Linked List
-- [ ] Hash Table
-- [ ] Binary Tree
+## 📌 Upcoming:
+- Graph (BFS/DFS)
+- Trie
+- AVL Tree
+- HashMap vs HashSet
+- Deque
 
 ---
 
-## 👨‍💻 Author
+## 🙌 Contribution
+This is a personal learning project, but contributions, issues, and pull requests are welcome!
 
-**Jubaer Bhuiyan**  
-GitHub: [@jubaer-bhuiyan](https://github.com/jubaer-bhuiyan)
+---
 
+## 🧑‍💻 Author
+
+[Jubaer Ahamed Bhuiyan](https://github.com/jubaer-bhuiyan)
