@@ -1,9 +1,10 @@
 # 🧠 Data Structures with Python
 
 This repository contains simple and beginner-friendly implementations of essential data structures using Python. Each data structure is implemented with:
-- Clear explanation 📝
-- Simple code examples 💻
-- Practical usage 💡
+
+- 📝 Clear explanation  
+- 💻 Simple code examples  
+- 💡 Practical usage
 
 ---
 
@@ -72,6 +73,34 @@ Binary tree where parent nodes are smaller than their children. Efficient for pr
 
 ---
 
+### 10. Trie
+A tree-like structure for storing strings. Efficient for prefix-based search.
+
+➡️ [Code Link](./Trie.py)
+
+---
+
+### 11. AVL Tree
+A self-balancing Binary Search Tree that maintains O(log n) operations by rotating nodes when necessary.
+
+➡️ [Code Link](./AVLTree.py)
+
+---
+
+### 12. HashMap vs HashSet
+Comparison between Python’s `dict` (HashMap) and `set` (HashSet) with examples.
+
+➡️ [Code Link](./HashMap_HashSet.py)
+
+---
+
+### 13. Graph (BFS & DFS)
+Represents relationships using vertices and edges. Includes traversal techniques like BFS and DFS.
+
+➡️ [Code Link](./graph_BFS_DFS.py)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
@@ -81,25 +110,27 @@ python <filename>.py
 Example:
 
 ```bash
-python BinarySearchTree.py
+python binarySearchTree.py
 ```
 
 ---
 
-## 📌 Upcoming:
-- Graph (BFS/DFS)
-- Trie
-- AVL Tree
-- HashMap vs HashSet
+## 📌 Upcoming
+
 - Deque
+- Segment Tree
+- Topological Sort
+- Dijkstra’s Algorithm
+- Union-Find (Disjoint Set)
 
 ---
 
 ## 🙌 Contribution
+
 This is a personal learning project, but contributions, issues, and pull requests are welcome!
 
 ---
 
 ## 🧑‍💻 Author
 
-[Jubaer Ahamed Bhuiyan](https://github.com/jubaer-bhuiyan)
+**[Jubaer Ahamed Bhuiyan](https://github.com/jubaer-bhuiyan)**
