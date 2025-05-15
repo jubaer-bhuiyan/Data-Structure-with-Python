@@ -1,5 +1,3 @@
-# graph.py
-
 from collections import defaultdict, deque
 
 class Graph:
