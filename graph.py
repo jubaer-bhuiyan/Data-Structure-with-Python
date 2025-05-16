@@ -39,7 +39,7 @@ class Graph:
             print(f"{node} -> {self.graph[node]}")
 
 
-# ✅ Example usage
+# ✅ Example usage ✅
 if __name__ == "__main__":
     g = Graph()
     g.add_edge(0, 1)
